@@ -59,6 +59,8 @@
     ```
     > This is a blockquote.
     ```
+    
+# Advanced Markdown 
 
 ## Inline Code
 - `` `code` ``
@@ -103,10 +105,3 @@
     - [x] Task 2 (completed)
     - [ ] Task 3
     ```
-
-## Escaping Markdown Characters
-- `\*Not italic\*` or `\*\*Not bold\*\*`
-  - Use a backslash to escape markdown characters and display them as plain text.
-  - Example: `\*This will not be italic\*`
-
-Remember, while Markdown is widely used, different platforms and editors may have variations or extensions to the standard Markdown syntax, so always consider the specific environment where you are using Markdown.
