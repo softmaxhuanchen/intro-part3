@@ -17,8 +17,8 @@ Click "Create repository."
 `cd your-repository-name`
 
 ## Step 5: Stage your changes
-`git status`
-`git add .`
+`git status` to see the changes
+then `git add .` to stage all changes
 
 ## Step 6: Commit your changs
 `git commit -m "Your descriptive commit message"`
