@@ -26,3 +26,6 @@ then `git add .` to stage all changes
 ## Step 7: push your changes
 `git push`
 
+# work flow for collaberation 
+
+## Step 1: Invite Collaborators and Accept Invitations
