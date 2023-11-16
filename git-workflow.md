@@ -2,7 +2,7 @@
 
 For easier commit message editing, change the default Git editor to Nano:
 
-git config --global core.editor "nano"
+`git config --global core.editor "nano"`
 
 ## Step 2: Create a Repository Remotely
 Log in to your GitHub account.
