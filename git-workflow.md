@@ -11,18 +11,18 @@ Name your repository, add README, add .gitignore.
 Click "Create repository."
 
 ## Step 3: Clone the Repository
-git clone https://github.com/yourusername/your-repository-name.git
+`git clone https://github.com/yourusername/your-repository-name.git`
 
 ## Step 4: Work on your project
-cd your-repository-name
+`cd your-repository-name`
 
 ## Step 5: Stage your changes
-git status
-git add .
+`git status`
+`git add .`
 
 ## Step 6: Commit your changs
-git commit -m "Your descriptive commit message"
+`git commit -m "Your descriptive commit message"`
 
 ## Step 7: push your changes
-git push
+`git push`
 
