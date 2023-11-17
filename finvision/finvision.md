@@ -26,7 +26,7 @@
   - All Gold Tier benefits.
   - Personalized portfolio analysis using our AI model.
 
- ![Subscription Tiers](./image/tiers.png)
+ ![Subscription Tiers](./image/Tiers.png)
 
 ## Join Us on Our Financial Journey!
 Become part of our community: [Subscribe to FinTech Vision](https://www.youtube.com/fintechvision)
